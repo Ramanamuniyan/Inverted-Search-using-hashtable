@@ -1,0 +1,13 @@
+#1;bad;1;11.txt;1;#
+#1;boy.;1;11.txt;4;#
+#6;guy.;1;11.txt;1;#
+#6;good;1;11.txt;1;#
+#8;is;1;11.txt;5;#
+#11;lover;1;11.txt;1;#
+#12;mobile;1;11.txt;1;#
+#12;muhilan;1;11.txt;1;#
+#13;nis;1;11.txt;1;#
+#15;pranesh;1;11.txt;1;#
+#17;rahul;1;11.txt;1;#
+#17;ramana;1;11.txt;1;#
+#18;smart;1;11.txt;1;#
