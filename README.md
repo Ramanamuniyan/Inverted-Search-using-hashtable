@@ -189,8 +189,7 @@ Enter choice:
 ---
 
 ## 📈 Future Enhancements
-- [ ] Add file change detection to auto-update index  
-- [ ] Export database to JSON or XML format  
+- [ ] Add file change detection to auto-update index   
 - [ ] Implement partial-word and phrase search  
 - [ ] Add user interface with command history  
 - [ ] Integrate stop-word removal (ignore common words like "the", "and")  
